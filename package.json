@@ -8,8 +8,12 @@
   },
   "dependencies": {
     "react": "16.0.0-alpha.6",
+    "react-intercom": "^1.0.11",
     "react-native": "0.44.0",
-    "react-native-navigation": "^1.1.46"
+    "react-native-elements": "^0.19.1",
+    "react-native-navigation": "^1.1.444",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
